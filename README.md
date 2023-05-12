@@ -1,4 +1,4 @@
-# Notas App
+# Notes App
 Este é um aplicativo de notas simples onde você pode criar, editar e remover notas facilmente.
 
 ## Recursos
