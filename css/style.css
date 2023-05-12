@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+:root{
+    --bg-color:#635985;
+    --primary-color:#18122B;
+    --secundary-color: #393053;
+    --tertiary-color:#443C68;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: var(--bg-color);
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    height: 100vh;
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+
+
+.note{
+    width: 21.5rem;
+    height: 24.5rem;
+    background: var(--primary-color);
+    margin: 1.5rem;
+    color: #fff;
+    box-shadow: 0 0 10px 4px rgba(0, 0, 0, 0.3);
+    overflow: scroll;
+    
+}
+
+.tools{
+    background: var(--secundary-color);
+    width: inherit;
+    padding: 0.5rem 0;
+    display: flex;
+    justify-content: flex-end;    
+}
+
+.edit , .delete{
+    margin-right: 1rem;
+    background: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+}
+
+textarea{
+
+    background: var(--primary-color);
+    border: none;
+    color: #fff;
+    outline: none;
+    padding: 20px;
+    width: 19rem;
+    height: 20rem;
+    font-family: 'Lato', sans-serif;
+}
+
+.add{
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+    background-color: var(--secundary-color);
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.add:hover{
+    font-size:0.9rem
+}
+
+.hidden {
+    display: none;
+  }
+
+.main{
+    padding:20px
+}
