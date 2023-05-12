@@ -12,15 +12,14 @@ Este é um aplicativo de notas simples onde você pode criar, editar e remover n
 1. Abra o aplicativo
 2. Clique no botão "Add note"
 3. Digite o conteúdo da sua nota
-4. Clique fora ou no botão com icon de edit
+4. Clique no botão com icon de edit para salvar
 5. Repita os passos 2-4 para adicionar quantas notas quiser
 
 
 Para editar ou remover uma nota existente, siga estes passos:
 
-1. Clique na nota que deseja editar ou remover
-2. Para editar a nota, clique no botão com icon de edit e faça as alterações necessárias. Em seguida, clique fora ou no mesmo botão
-3. Para remover a nota, clique no botão com icon de lixo 
+1. Para editar a nota, clique no botão com icon de edit e faça as alterações necessárias. Em seguida, clique no mesmo botão
+2. Para remover a nota, clique no botão com icon de lixo 
 
 ## Tecnologias utilizadas
 
