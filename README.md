@@ -2,10 +2,10 @@
 Este é um aplicativo de notas simples onde você pode criar, editar e remover notas facilmente.
 
 ## Recursos
-• Crie notas com conteúdo
-• Edite notas existentes
-• Remova notas que não precisa mais
-• Interface simples e fácil de usar
+- Crie notas com conteúdo
+- Edite notas existentes
+- Remova notas que não precisa mais
+- Interface simples e fácil de usar
 
 
 ## Como usar
@@ -26,7 +26,7 @@ Para editar ou remover uma nota existente, siga estes passos:
 
 Este aplicativo foi construído com as seguintes tecnologias:
 
-•  HTML
-•  CSS
-•  JavaScript
+- HTML
+- CSS
+- JavaScript
 
