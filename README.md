@@ -26,7 +26,7 @@ Para editar ou remover uma nota existente, siga estes passos:
 
 Este aplicativo foi construído com as seguintes tecnologias:
 
-• HTML
-• CSS
-• JavaScript
+•  HTML
+•  CSS
+•  JavaScript
 
